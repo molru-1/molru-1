@@ -2,10 +2,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=200&section=header&text=Full-Stack%20%26%20Creative%20Developer&fontSize=36&animation=fadeIn&fontColor=ffffff" width="100%"/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=All-Rounder+Developer+%7C+Development+%2B+Design+%2B+Audio;Game+%26+3D+Interactive+Developer;AI+Ecosystem+%26+Web+Security+Enthusiast;Multi-Platform+Engineer+(macOS%2FWindows%2FLinux)" alt="Typing SVG" />
-  </a>
 </div>
 
 <br>
@@ -13,9 +9,9 @@
 ## Achievements & Honors
 
 - **2025 강원 상업경진대회** | 비즈니스프로그래밍 부문 동상 (2025)
-  - C#/데이터 처리 기반 비즈니스 문제 해결 및 개발 능력 입증
+  - C# 및 데이터 처리 기반 비즈니스 문제 해결
 - **제1회 강원제 CTF** | 장려상
-  - 웹 해킹(Web Security/Hacking) 분야 워게임 문제 분석 및 취약점 공략 역량 입증
+  - 웹 해킹(Web Security) 분야 
 
 ---
 
