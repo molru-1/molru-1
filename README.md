@@ -1,7 +1,7 @@
 # Profile
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=200&section=header&text=Full-Stack%20and%20Creative%20Developer&fontSize=34&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=200&section=header&text=ALL IN ONE%20and%20Creative%20Developer&fontSize=34&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
 <br>
@@ -9,9 +9,9 @@
 ## Achievements & Honors
 
 - **2025 강원 상업경진대회** | 비즈니스프로그래밍 부문 동상 (2025)
-  - C# 및 데이터 처리 기반 비즈니스 문제 해결
+  - C 및 데이터 처리 기반 비즈니스 문제 해결
 - **제1회 강원제 CTF** | 장려상
-  - 웹 해킹(Web Security) 분야 워게임 문제 분석 및 취약점 공략
+  - 웹 해킹(Web Security) 부분
 
 ---
 
@@ -78,10 +78,4 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=molru-1&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmolru-1&count_bg=%23795548&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
