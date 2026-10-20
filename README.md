@@ -1,7 +1,7 @@
 # Profile
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=200&section=header&text=ALL-IN-ONE%20and%20Creative%20Developer&fontSize=34&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=200&section=header&text=몰?루&fontSize=34&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
 <br>
